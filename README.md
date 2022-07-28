@@ -33,3 +33,9 @@ FastAPI Class를 testServer라는 이름으로 생성 해줍니다.
 정말 간단하게 완성된 코드
 
 ![image](https://user-images.githubusercontent.com/86217603/181399100-b50a7e74-86ea-4803-bbc0-813b431f6e13.png)
+
+
+Fast API의 장점은 /docs에 사용법이 자동으로 만들어집니다
+
+![image](https://user-images.githubusercontent.com/86217603/181400019-811c9d85-e171-4041-a83a-c49da97d73a6.png)
+
